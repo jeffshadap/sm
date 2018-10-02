@@ -1,0 +1,3 @@
+[submodule "aichan"]
+	path = aichan
+	url = https://github.com/jeffshadap/aichan.git
