@@ -1,3 +1,6 @@
 [submodule "aichan"]
 	path = aichan
 	url = https://github.com/jeffshadap/aichan.git
+[submodule "test1"]
+	path = test1
+	url = https://github.com/jeffshadap/test1.git
